@@ -1,0 +1,7 @@
+do srede pokusati zavrsiti home page(hero image sa vise slika) + animacija texta + card + sponzori + footer + NAV/HAMBURGER(uradjen)
+utorak/sreda naci slike za galeriju
+cetvrtak/petak kalendar sa eventima
+petak kontakt
+nakon toga galerija
+tabela
+blog
